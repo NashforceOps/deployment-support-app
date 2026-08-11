@@ -1,0 +1,4 @@
+# Ignore version control history
+.git/
+.github/
+
